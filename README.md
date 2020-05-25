@@ -14,3 +14,8 @@ pip install beautifulsoup4
 pip install pandas
 
 > Please make sure to put your (1)id/pw on ed (2) chromedriver path into the code at the first beginning of the code 
+
+
+https://www.youtube.com/watch?v=RsFvlTMVDBA&feature=youtu.be
+
+https://www.youtube.com/watch?v=wgB9VTgKmeE&feature=youtu.be
