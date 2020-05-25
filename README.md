@@ -1,5 +1,4 @@
 # CS106A_Ed-crawler
-Fetch post data and write them as xlsx format
 
 > Install
 
@@ -16,6 +15,6 @@ pip install pandas
 > Please make sure to put your (1)id/pw on ed (2) chromedriver path into the code at the first beginning of the code 
 
 
-https://www.youtube.com/watch?v=RsFvlTMVDBA&feature=youtu.be
+presentation: https://www.youtube.com/watch?v=RsFvlTMVDBA&feature=youtu.be
 
-https://www.youtube.com/watch?v=wgB9VTgKmeE&feature=youtu.be
+presentation(code focus): https://www.youtube.com/watch?v=wgB9VTgKmeE&feature=youtu.be
